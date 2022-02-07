@@ -5,7 +5,7 @@
 
 <span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han
 
-This project aims to predict the climate changes based on finding the changes between the Ei Nino events and the US landfalls of the hurricanes. Besides, we plan to explore other elements that may affect the probability of landfall such as the temperature, time and the origin location of the hurricane using the machine learning method like K-means and logistic regression.   
+The goal of this project is to explore association between climate changes and Hurricanes based on El Nino events. The analysis goes deep into studying the association between likelihood of landfall, temperature, time and the origin location for EL-Nino and La-Nina events. Machine learning methods such as K-means and logistic regression are applied to perform clustering on the Hurricane characterstics and generate insights on El-Nina events.
 
 ## Code Run Instructions
 Install the necessary requirements by running the following command.
