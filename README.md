@@ -31,38 +31,9 @@ next run the code to upload the dataset.
 # Organization of this directory
 The project directory is organised as follows
 ```
-./
-├── README.md
-├── requirements.txt
-├── e4040-2021Fall-Project-ABCN-sg3904-mk4427-ads2251.pdf
-├── dataset_loader
-│   ├── __pycache__
-│   │   └── data_loader.cpython-36.pyc
-│   └── data_loader.py
-├── main_notebook.ipynb
-└── utils
-    ├── CustomActivations
-    │   ├── __pycache__
-    │   │   └── activations.cpython-36.pyc
-    │   └── activations.py
-    ├── CustomCallbacks
-    │   ├── __pycache__
-    │   │   └── callbacks.cpython-36.pyc
-    │   └── callbacks.py
-    ├── CustomLayers
-    │   ├── __pycache__
-    │   │   ├── binary_layers.cpython-36.pyc
-    │   │   └── ternary_layers.cpython-36.pyc
-    │   ├── binary_layers.py
-    │   └── ternary_layers.py
-    └── CustomOperations
-        ├── __pycache__
-        │   ├── binary_ops.cpython-36.pyc
-        │   └── ternary_ops.cpython-36.pyc
-        ├── binary_ops.py
-        └── ternary_ops.py
 
-11 directories, 18 files
+
+
 ```
 
 # Code Content
