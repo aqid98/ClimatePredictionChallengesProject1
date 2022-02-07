@@ -5,6 +5,14 @@
 
 <span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han
 
+<div id="bigtext">
+    <span>Effects of El Niño Events on Hurricane Formation and Landfalls in the US </span>
+    <span>Makes Text Big</span>
+</div>
+<script>
+$('#bigtext').bigtext();
+</script>
+    
     
 **Effects of El Niño Events on Hurricane Formation and Landfalls in the US**
      
