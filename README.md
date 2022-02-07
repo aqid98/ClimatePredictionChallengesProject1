@@ -37,31 +37,12 @@ The project directory is organised as follows
 ```
 
 # Code Content
+```
 
->dataset_loader
-~~~python
-Loads the MNIST Dataset
-~~~
 
->CustomActivations
-~~~python
-Contain activation functions implemented
-~~~
 
->CustomCallbacks
-~~~python
-Contain callback functions implemented
-~~~
+```
 
->CustomLayers
-~~~python
-Contain binary and ternary layers implemented
-~~~
-
->CustomOperations
-~~~python
-Contain binary and ternary operations implemented
-~~~
 
 
 # Models Drive Link
