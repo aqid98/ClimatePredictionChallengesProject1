@@ -37,3 +37,5 @@ https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=shari
 
 # Paper Link
 https://drive.google.com/file/d/13Zi08oF2SK7KGa-21_S9ejlzhZjkgXoe/view?usp=sharing
+    
+**Contribution statement:**(default) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.    
