@@ -64,12 +64,6 @@ Contain binary and ternary operations implemented
 ~~~
 
 
-
-# References
-
-[ref1]: http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network
-Wei Pan,Xiaofan Lin,Cong Zhao Towards Accurate Binary Convolutional Neural Network[NIPS 2017]
-
 # Models Drive Link
 
 https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
