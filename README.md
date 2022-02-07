@@ -30,6 +30,15 @@ next run the code to upload the dataset.
 !wget https://raw.githubusercontent.com/aqid98/ClimatePredictionChallenges/main/Data/Monthly%20Oceanic%20Nino%20Index%20\(ONI\)%20-%20Wide.csv
 ~~~
 
+    
+#Organisation of this directory 
+    
+proj/
+├── lib/
+├── data/
+├── doc/
+├── figs/
+└── output/
 
 # Models Drive Link
 
@@ -37,5 +46,8 @@ https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=shari
 
 # Paper Link
 https://drive.google.com/file/d/13Zi08oF2SK7KGa-21_S9ejlzhZjkgXoe/view?usp=sharing
+    
+    
+    
     
 **Contribution statement:**(default) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.    
