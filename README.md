@@ -32,13 +32,7 @@ next run the code to upload the dataset.
 
     
 ## Organisation of this directory 
-    
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+
 
 # Models Drive Link
 
