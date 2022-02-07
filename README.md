@@ -8,7 +8,7 @@
     
 ## **Effects of El Niño Events on Hurricane Formation and Landfalls in the US**
      
-The goal of this project is to explore association between climate changes and Hurricanes based on El Nino events. The analysis goes deep into studying the association between likelihood of landfall, temperature, time and the origin location for EL-Nino and La-Nina events. Machine learning methods such as K-means and logistic regression are applied to perform clustering on the Hurricane characterstics and to generate insights on El-Nina events.
+The goal of this project is to explore association between climate changes and Hurricanes based on El Niño events. The analysis goes deep into studying the association between likelihood of landfall, temperature, time and the origin location for El Niño and La Niña events. Machine learning methods such as K-means and logistic regression are applied to perform clustering on the Hurricane characterstics and to generate insights on El Niño events.
 
 ## Code Run Instructions
 Install the necessary requirements by running the following command.
