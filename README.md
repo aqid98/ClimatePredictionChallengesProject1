@@ -28,23 +28,6 @@ next run the code to upload the dataset.
 ~~~
 
 
-# Organization of this directory
-The project directory is organised as follows
-```
-
-
-
-```
-
-# Code Content
-```
-
-
-
-```
-
-
-
 # Models Drive Link
 
 https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
