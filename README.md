@@ -31,9 +31,17 @@ next run the code to upload the dataset.
 ~~~
 
     
-## Organisation of this directory 
+# Organisation of this directory 
 
-
+```
+proj/
+├── lib/
+├── data/
+├── doc/
+├── figs/
+└── output/
+```
+    
 # Models Drive Link
 
 https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
