@@ -1,38 +1,32 @@
 # 2022Spring-Project-STAT
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-# Implementation of Accurate Binary Convolutional Neural Network
+# Climate Prediction Challenges
 
-<span style="color:red">Wei Pan,Xiaofan Lin,Cong Zhao [Towards Accurate Binary Convolutional Neural Network][ref1][NIPS 2017]</span>
+<span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han
 
-The project is based on the NIPS 17 paper [1]
-that brings Binary Neural Networks to CNNs and studies the
-top 1% and 5% accuracy. The goal of Binary networks is to
-reduce memory storage requirements, improve power efficiency
-and reduce floating point operations (especially multiplication
-in convolution). Binary CNNs also increase the parallelization
-ability of the computation and can work better with specialized
-hardware The approximated model accuracy is quite near the
-actual model for small datasets but drops for larger datasets. A
-tabular representation or a metric to study the computational
-gain will be modeled as part of the project. More recent
-approaches and future scope are discussed and are likely to be
-explored as the project progresses.
+This project aims to predict the climate changes based on finding the changes between the Ei Nino events and the US landfalls of the hurricanes. Besides, we plan to explore other elements that may affect the probability of landfall such as the temperature, time and the origin location of the hurricane using the machine learning method like K-means and logistic regression.   
 
 ## Code Run Instructions
 Install the necessary requirements by running the following command.
 
 ~~~python
-pip install -r requirements.txt
+!pip install matplotlib 
+# These uninstallation must be done to ensure that no version conflicts would happen.
+!pip uninstall --yes cartopy 
+!pip uninstall --yes shapely
+# Shapely and cartopy are used for graphing maps and tracks.
+!pip install shapely cartopy --no-binary shapely --no-binary cartopy
+    
 ~~~
 
-next run the main_notebook which contains the keras model defination.
-The model can be loaded directly using the 
+next run the code to upload the dataset.  
 ~~~python
-import tensorflow
-model = tensorflow.keras.models.load_model('path/to/location')()
+%%capture
+!wget https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.NA.list.v04r00.csv
+!wget https://raw.githubusercontent.com/aqid98/ClimatePredictionChallenges/main/Data/Monthly%20Oceanic%20Nino%20Index%20\(ONI\)%20-%20Wide.csv
 ~~~
-Each model can be run and verified.
+
 
 # Organization of this directory
 The project directory is organised as follows
