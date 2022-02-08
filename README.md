@@ -52,12 +52,9 @@ proj/
 + International Best Track Archive for Climate Stewardship [(IBTrACS)](https://www.ncdc.noaa.gov/ibtracs/) from NOAA National Centers for Environmental Information.
 + Oceanic Niño Index [(El Niño-Southern Oscillation Index)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)
         
-## Models Drive Link
+## Collab Link
 
-https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
 
-## Paper Link
-https://drive.google.com/file/d/13Zi08oF2SK7KGa-21_S9ejlzhZjkgXoe/view?usp=sharing
     
     
     
