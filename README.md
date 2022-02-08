@@ -7,7 +7,8 @@
 
 <span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han
      
-The goal of this project is to explore association between climate changes and Hurricanes based on El Niño events. The analysis goes deep into studying the association between likelihood of landfall, temperature, time and the origin location for El Niño and La Niña events. Machine learning methods such as K-means and logistic regression are applied to perform clustering on the Hurricane characterstics and to generate insights on El Niño events.
+The goal of this project is to explore association between climate changes and Hurricanes based on El Niño events. The analysis explores Hurricane characteristics such as likelihood of landfall, sea surface temperature, time and the origin location of El Niño and La Niña events. K-means algorithm is applied on the moments of Hurricane tracks and prediction of landfall is analysed on clusters and sea surface temperature.
+     
     
 ![Alt text](https://raw.githubusercontent.com/aqid98/ClimatePredictionChallenges/main/Images/el-nino.jpeg)
 
@@ -33,7 +34,7 @@ next run the code to upload the dataset.
 ~~~
 
     
-# Organisation of this directory 
+## Organisation of this directory 
 
 ```
 proj/
@@ -41,14 +42,21 @@ proj/
 ├── data/
 ├── doc/
 ├── figs/
+├── images/        
 └── output/
+        
 ```
     
-# Models Drive Link
+## Data Description
+        
++ International Best Track Archive for Climate Stewardship [(IBTrACS)](https://www.ncdc.noaa.gov/ibtracs/) from NOAA National Centers for Environmental Information.
++ Oceanic Niño Index [(El Niño-Southern Oscillation Index)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)
+        
+## Models Drive Link
 
 https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
 
-# Paper Link
+## Paper Link
 https://drive.google.com/file/d/13Zi08oF2SK7KGa-21_S9ejlzhZjkgXoe/view?usp=sharing
     
     
