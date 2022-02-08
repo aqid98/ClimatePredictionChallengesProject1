@@ -1,5 +1,6 @@
 # 2022Spring-Project1-STAT5242
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfp3VXw4_rtEkLs-aq_l-UcZq-daOR-K?usp=sharing)
 
 # Climate Prediction Challenges
         
