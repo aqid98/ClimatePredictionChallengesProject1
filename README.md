@@ -1,11 +1,11 @@
-# 2022Spring-Project-STAT
+# 2022Spring-Project1-STAT5242
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 # Climate Prediction Challenges
         
 ## **Effects of El Niño Events on Hurricane Formation and Landfalls in the US**
 
-<span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han
+<span style="color:red">Gabriel Weinstein, Mohammed Aqid Khatkhatay, Simran Padam, Bowen Han, Ruoming Han (Group 6)
      
 The goal of this project is to explore association between climate changes and Hurricanes based on El Niño events. The analysis explores Hurricane characteristics such as likelihood of landfall, sea surface temperature, time and the origin location of El Niño and La Niña events. K-means algorithm is applied on the moments of Hurricane tracks and prediction of landfall is analysed on clusters and sea surface temperature.
      
